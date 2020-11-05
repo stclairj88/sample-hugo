@@ -1,4 +1,5 @@
 theme = "black-and-light"
+#theme = "hugo-theme-stack-master"
 relativeURLs = true
 baseURL = "/"
 title = "Hugo Themes"
